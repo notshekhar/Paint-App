@@ -1,0 +1,19 @@
+.header {
+    position: fixed;
+    top: 0px;
+    height: 80px;
+    width: 100%;
+    left: 0px;
+    background: red;
+}
+
+canvas {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    background: green;
+}
+
+.active {
+    background: yellow;
+}
